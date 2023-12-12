@@ -1,0 +1,50 @@
+[08-Dec-2023 11:02:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/age26074/container.agenciabs7.com.br/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Dec-2023 15:25:30 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[11-Dec-2023 14:03:15 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/age26074/container.agenciabs7.com.br/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Dec-2023 20:21:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/age26074/container.agenciabs7.com.br/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Dec-2023 20:48:23 UTC] PHP Warning:  Undefined array key "id" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor/includes/widgets/image-carousel.php on line 859
+[11-Dec-2023 20:55:22 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:22 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:22 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:22 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:26 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:26 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:28 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:28 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:31 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:31 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:34 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:34 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:37 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:37 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:39 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:55:43 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:55:43 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:02 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:02 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:02 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:02 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:04 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:04 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:04 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:04 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:23 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:24 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:24 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[11-Dec-2023 20:56:24 UTC] PHP Warning:  Undefined array key "requires" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 69
+[11-Dec-2023 20:56:24 UTC] PHP Warning:  Undefined array key "new_version" in /home1/age26074/container.agenciabs7.com.br/wp-content/plugins/elementor-pro/license/updater.php on line 84
+[12-Dec-2023 12:15:37 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/age26074/container.agenciabs7.com.br/wp-includes/class-wp-customize-widgets.php on line 905
